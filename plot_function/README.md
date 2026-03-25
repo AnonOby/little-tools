@@ -1,6 +1,3 @@
-Create a file named `README.md` with the following content:
-
-```markdown
 # Multi-Function Plotter
 
 A simple interactive Python tool that lets you plot multiple mathematical functions on the same graph. Enter expressions like `sin(x)`, `x**2`, `log(x)`, etc., and see them overlaid for comparison.
