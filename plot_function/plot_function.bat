@@ -1,0 +1,9 @@
+@echo off
+echo Installing required packages (matplotlib, numpy)...
+python -m pip install matplotlib numpy --quiet
+echo.
+echo Starting function plotter...
+python "%~dp0plot_function.py"
+echo.
+echo Script finished. Press any key to close this window...
+pause > nul
